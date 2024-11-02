@@ -1,0 +1,7 @@
+{
+  "name": "CutlinksMobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
